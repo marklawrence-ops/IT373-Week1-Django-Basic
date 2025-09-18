@@ -1,0 +1,10 @@
+Mark Lawrence P. Lacdao
+BSIT 3C - (IT373 - Assignment 2)
+
+Python version: Python 3.12.3
+Venv active: activated
+Django version: 5.2.6
+Runserver working: http://127.0.0.1:8000 accessible
+Git remote set: 
+    origin  https://github.com/marklawrence-ops/IT373-Week1-Django-Basic (fetch)
+    origin  https://github.com/marklawrence-ops/IT373-Week1-Django-Basic (push)
