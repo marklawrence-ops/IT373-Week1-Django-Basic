@@ -8,5 +8,9 @@ def home(request):
     return render(request, 'pages/home.html', ctx)
 
 def about(request):
-    return render(request, 'pages/about.html')
+    ctx = {
+        'name': 'Mark Lawrence P. Lacdao',
+        'student_id': '2023-02427',
+    }
+    return render(request, 'pages/about.html', ctx) 
 
